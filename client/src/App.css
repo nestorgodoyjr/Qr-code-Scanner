@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.qr-reader {
+  width: 300px; /* Adjust width as needed */
+  height: 300px; /* Adjust height as needed */
+  border: 1px solid black; /* Optional: adds a border around the camera view */
+  margin: auto; /* Center the QR reader */
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
